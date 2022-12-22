@@ -1,0 +1,2 @@
+# FrankysLottoKnecht
+Auswertung Lottozahlen / TippScheine
